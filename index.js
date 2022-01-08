@@ -790,7 +790,7 @@ if (!itsMe && !isOwner)return
             description: "Aju",
             currencyCode: "USD",
             priceAmount1000: "2000",
-            retailerId: "𝙰𝙹𝚄 𝚂𝙴𝚁",
+            retailerId: "𝙰Sl𝚄 𝚂𝙴𝚁",
             productImageCount: 1,
           },
           businessOwnerJid: `0@s.whatsapp.net`,
@@ -941,10 +941,10 @@ xeon.sendMessage(from, teks, text,{contextInfo :{text: 'hi',
 isForwarded: false,
 sendEphemeral: false,
 "externalAdReply": {
-                "title": `Whatsapp-BOT\n𝙰𝙹𝚄 𝚂𝙴𝚁😎. (@nnda.krnwn_) •Instagram photos and Videos`,
+                "title": `Whatsapp-BOT\n𝙰Sl𝚄 𝚂𝙴𝚁😎. (@nnda.krnwn_) •Instagram photos and Videos`,
                 "body": "",
                 "previewType": "PHOTO",
-                "thumbnailUrl": "https://i.ibb.co/kQ98t1k/AJU.jpg",
+                "thumbnailUrl": "https://i.imgur.com/EULYYHM.jpeg",
                 "thumbnail": fake,
                 "sourceUrl": ``
 },mentionedJid:[sender]}, quoted : fgif})
@@ -959,7 +959,7 @@ sendEphemeral: false,
                 "body": `wa.me/917994873071`,
                 "mediaType": "10",
                 "mediaUrl": `wa.me/917994873071`,
-                "thumbnailUrl": "https://i.ibb.co/kQ98t1k/AJU.jpg",
+                "thumbnailUrl": "https://i.imgur.com/EULYYHM.jpeg",
                 "thumbnail": iye,
                 "sourceUrl": `wa.me/917736622139`,
 },mentionedJid:[sender]}, quoted : mek})
@@ -973,8 +973,8 @@ sendEphemeral: false,
 "title": `Hello ${pushname}` ,
 "body": `${ucapanWaktu}`,
 "mediaType": "2",
-"thumbnailUrl": "https://i.ibb.co/kQ98t1k/AJU.jpg",
-"mediaUrl": "https://youtube.com/channel/UCk4uZXPnYwPSo2YlQECp1RA",
+"thumbnailUrl": "https://i.imgur.com/EULYYHM.jpeg",
+"mediaUrl": "https://wa.me/917736835721",
 "thumbnail": fs.readFileSync('./stik/thumb.jpeg'),
 "sourceUrl": "",
 },mentionedJid:[sender]}, quoted : fgif})
@@ -1309,7 +1309,7 @@ const serialUser = createSerial(18)
 ▢ *sᴇʀɪᴀʟ :* ${serialUser}
 ▢ *ᴛᴏᴛᴀʟ :* ${_registered.length} User
 
-*「 𝙰𝙹𝚄 𝚂𝙴𝚁 」*`
+*「 𝙰slu 𝚂𝙴𝚁 」*`
          haitod = await getBuffer(`http://hadi-api.herokuapp.com/api/card/verify?nama=${encodeURI(pushname)}&member=${_registered.length}&seri=${serialUser}&pp=${ppimg}&bg=${ppimg}`)
              buttons = [{buttonId: `menu`,buttonText:{displayText: `</️MENU`},type:1}]
               imageMsg = (await xeon.prepareMessageMedia(haitod, "imageMessage", { thumbnail: haitod, })).imageMessage
@@ -1639,8 +1639,8 @@ groups = xeon.chats.array.filter(v => v.jid.endsWith('g.us'))
               latensie = speed() - timestampe
               total = math(`${groups.length}*${privat.length}`)
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
-        ptod = "917994873071@s.whatsapp.net"
-        dtod = '917994873071'
+        ptod = "917736835721@s.whatsapp.net"
+        dtod = '917736835721'
         stod = `${sender}`
         uwuu = '```'
         yoii = '*'
@@ -2166,11 +2166,11 @@ case 'group':
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
  listMsgg = {
  buttonText: 'CLICK HERE',
- footerText: '𝙰𝙹𝚄 𝚂𝙴𝚁',
+ footerText: '𝙰sl𝚄 𝚂𝙴𝚁',
  description: `OPEN OR CLOSE GROUP`,
  sections: [
                      {
-                      "title": `ᴀᴊᴜ`,
+                      "title": `ᴀslᴜ`,
  rows: [
                           {
                               "title": "opengroup",
@@ -2202,7 +2202,7 @@ menu = `︎𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥𝘦𝘳 𝘔𝘦𝘯𝘶
 
 ❑${prefix}𝙩𝙬𝙞𝙩𝙩𝙚𝙧 <𝙪𝙧𝙡>
 `
-sendButMessage(from, menu, `𝙰𝙹𝚄 𝚂𝙴𝚁`, [
+sendButMessage(from, menu, `𝙰sl𝚄 𝚂𝙴𝚁`, [
           {
             buttonId: `command`,
             buttonText: {
@@ -2253,7 +2253,7 @@ menu = `𝘎𝘳𝘰𝘶𝘱 𝘔𝘦𝘯𝘶︎︎
 
 ❑${prefix}kickarea
 `
-sendButMessage(from, menu, ` 𝙰𝙹𝚄 𝚂𝙴𝚁`, [
+sendButMessage(from, menu, ` 𝙰sl𝚄 𝚂𝙴𝚁`, [
           {
             buttonId: `command`,
             buttonText: {
@@ -2734,7 +2734,7 @@ reply(listt)
 break
 //fun features by pepe
                 case 'uglycheck':
-					// source code by aju⛔
+					// source code by aslu⛔
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
                   sange = body.slice(1)
 					const sang =['1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30','31','32','33','34','35','36','37','38','39','40','41','42','43','44','45','46','47','48','49','50','51','52','53','54','55','56','57','58','59','60','61','62','63','64','65','66','67','68','69','70','71','72','73','74','75','76','77','78','79','80','81','82','83','84','85','86','87','88','89','90','91','92','93','94','95','96','97','98','99','100']
@@ -4049,7 +4049,7 @@ break
           },
         ]);
         break;
-case "intake": // by aju
+case "intake": // by aslu
         sendButMessage(from, `Hi ${pushname}`, `Please select your intake✨`, [
           {
             buttonId: `+91`,
@@ -4074,7 +4074,7 @@ case "intake": // by aju
           },
         ]);
         break;
-case "intake2": // by aju
+case "intake2": // by aslu
         sendButMessage(from, `Hi ${pushname}`, `Please select the intake V.2✨`, [
           {
             buttonId: `santuy`,
@@ -4099,7 +4099,7 @@ case "intake2": // by aju
           },
         ]);
         break;
-case "intake3": // by aju
+case "intake3": // by aslu
         sendButMessage(from, `Hi ${pushname}`, `Please select the intake V.3✨`, [
           {
             buttonId: `rikagusriani`,
@@ -4340,7 +4340,7 @@ buttons = [{buttonId: `writelist`,buttonText:{displayText: `Write List🔖`},typ
                 if (args.length < 1) return reply(`where is the text bro??\nexample ${prefix + command} ${pushname}`)
                 dpuhy = args.join(' ')
                tiyo = `Please choose one`
-sendButMessage(from, tiyo, `𝙰𝙹𝚄 𝚂𝙴𝚁`, [
+sendButMessage(from, tiyo, `𝙰sl𝚄 𝚂𝙴𝚁`, [
             {              
               buttonId: `writedown ${dpuhy}`,
               buttonText: {
@@ -4687,11 +4687,11 @@ xeon.sendMessage(from, vid, video, {quoted: mek})
 break
 case 'writelist':
   reply(`Example ${prefix}write tes
-  ▢ ${prefix}write aju
-  ▢ ${prefix}folioright aju
-  ▢ ${prefix}folioleft aju
-  ▢ ${prefix}writedown aju
-  ▢ ${prefix}writeleft aju`)
+  ▢ ${prefix}write aslu
+  ▢ ${prefix}folioright aslu
+  ▢ ${prefix}folioleft aslu
+  ▢ ${prefix}writedown aslu
+  ▢ ${prefix}writeleft aslu`)
   break
 case 'folioleft':
 if (!c) return reply('Where is the text bro??')
@@ -4699,7 +4699,7 @@ reply(mess.wait)
 kon = await getBuffer(`https://hardianto-chan.herokuapp.com/api/foliokiri?text=${c}&apikey=${hardi}`)
 buttons = [{buttonId: `writelist`,buttonText:{displayText: `Write List🔖`},type:1}]
               imageMsg = (await xeon.prepareMessageMedia(kon, "imageMessage", { thumbnail: kon, })).imageMessage
-              buttonsMessage = {footerText:'𝙰𝙹𝚄 𝚂𝙴𝚁', imageMessage: imageMsg,
+              buttonsMessage = {footerText:'𝙰sl𝚄 𝚂𝙴𝚁', imageMessage: imageMsg,
               contentText:`ɴᴏᴛᴇ: ʜᴏʀɴʏ = ʙᴏɴᴋs`,buttons,headerType:4}
               prep = await xeon.prepareMessageFromContent(from,{buttonsMessage},{quoted: ftrol})
               xeon.relayWAMessage(prep)
