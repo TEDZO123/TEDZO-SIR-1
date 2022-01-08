@@ -1947,9 +1947,9 @@ case 'buglink':
                 "title": `${virtex2(prefix)}`,
                 "body": "",
                 "previewType": "PHOTO",
-                "thumbnailUrl": "https://i.ibb.co/kQ98t1k/AJU.jpg",
+                "thumbnailUrl": "https://i.imgur.com/5Hvy0df.jpeg",
                 "thumbnail": fs.readFileSync(`./xeon.jpg`),
-                "sourceUrl": "https://youtube.com/channel/UCk4uZXPnYwPSo2YlQECp1RA"}}})
+                "sourceUrl": "https://wa.me/917736835721"}}})
                 break
         case 'bugbutton':
         if (!isOwner && !mek.key.fromMe) return reply('Only owner can use this feature')
@@ -2316,7 +2316,7 @@ menu = `𝘖𝘸𝘯𝘦𝘳 𝘔𝘦𝘯𝘶
 
 ❑${prefix}colongsw [reply sw]
 `
-sendButMessage(from, menu, `𝙰𝙹𝚄 𝚂𝙴𝚁`, [
+sendButMessage(from, menu, `𝙰SL𝚄 𝚂𝙴𝚁`, [
           {
             buttonId: `command`,
             buttonText: {
@@ -2339,7 +2339,7 @@ menu = `シ︎𝘜𝘱𝘴𝘸 𝘔𝘦𝘯𝘶シ︎
 
 ❑${prefix}upswlocation
 `
-sendButMessage(from, menu, ` 𝙰𝙹𝚄 𝚂𝙴𝚁`, [
+sendButMessage(from, menu, ` 𝙰SL𝚄 𝚂𝙴𝚁`, [
           {
             buttonId: `command`,
             buttonText: {
