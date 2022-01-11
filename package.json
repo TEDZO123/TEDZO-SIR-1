@@ -58,15 +58,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aju001/AJU-SER.git"
+    "url": "git+https://github.com/TEDZO123/TEDZO-SIR-1.git"
   },
   "keywords": [
     "Wasu"
   ],
-  "author": "AJU",
+  "author": "ASLU",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aju001"
+    "url": "https://github.com/TEDZO123"
   },
-  "homepage": "https://github.com/aju001"
+  "homepage": "https://github.com/TEDZO123"
 }
