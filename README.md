@@ -26,7 +26,12 @@
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@MYRANUMBI/TEDZO-10?v=1)
 
-<a href="https://github.com/TEDZO123"><img src="https://i.ibb.co/QKLkFh5/1.jpg" alt="2" width="600"></a>
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TEDZO123/AJU-SER) 
+
+
+
+<a href="https://github.com/TEDZO123"><img src="https://i.imgur.com/4PF5vdg.jpeg" alt="2" width="600"></a>
 
 ## 🚀
 
@@ -34,7 +39,6 @@
 
 ## ERROR FIX IT YOURSELF
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TEDZO123/AJU-SER) 
 
 
 # Requirements
@@ -59,14 +63,14 @@ heroku/nodejs
 
 ## `SETTING`
 
-- CHANGE OWNER NUMBER [Here](https://github.com/aju001/AJU-SER/blob/master/index.js#L136)
-- CHANGE OWNER NAME [Here](https://github.com/aju001/AJU-SER/blob/master/index.js#L138)
+- CHANGE OWNER NUMBER [Here](https://github.com/TEDZO123/ASLU-SIR-1/blob/master/index.js#L136)
+- CHANGE OWNER NAME [Here](https://github.com/TEDZO123/ASLU-SIR-1/blob/master/index.js#L138)
 
 # Installation
 ## Clone Repo & Installation dependencies
 ```bash
-🚀 git clone https://github.com/aju001/AJU-SER.git
-🚀 cd AJU-SER
+🚀 git clone https://github.com/TEDZO123/ASLU-SIR-1.git
+🚀 cd ASLU-SER
 🚀 npm start
 ```
 ## For Termux
@@ -81,8 +85,8 @@ heroku/nodejs
 🚀 pkg install ffmpeg -y 
 🚀 pkg install wget
 🚀 pkg install imagemagick -y
-🚀 git clone https://github.com/aju001/AJU-SER
-🚀 cd AJU-SER
+🚀 git clone https://github.com/TEDZO123/ASLU-SIR-1
+🚀 cd ASLU-SER
 🚀 ls
 🚀 rm -rf session.json
 🚀 npm install
@@ -95,21 +99,21 @@ heroku/nodejs
 ## Connect With Me
 My Personal Chat👇
 <p align="center">
- <a href="https://wa.me/+917994873071"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://wa.me/+917736835721"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
 My Whatsapp Group👇
 <p align="center">
- <a href="https://chat.whatsapp.com/HebsCx7CBxMJBLqyeHemcO"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://chat.whatsapp.com/JqUKjz9djTS9mDmxA2ph2t"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
-* [`My Youtube Channel`](https://youtube.com/channel/UCk4uZXPnYwPSo2YlQECp1RA)
+
 
 ### ⚠ Warning ⚠
 
 ```
 By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
-Aju Sir or we are not responsible for your account, 
+Aslu Sir or we are not responsible for your account, 
 This bot is intended for the purpose of having fun with some fun commands 
 and group management with some helpfull commands.
 
@@ -123,30 +127,22 @@ you can contact us
 ```
 
   <p align="center">
-  <a href="https://github.com/aju001/AJU-SER">
+  <a href="https://github.com/TEDZO123/ASLU-SIR-1">
     
-<a href="https:https://github.com/aju001?tab=followers">
-<img src="https://img.shields.io/github/repo-size/aju001/AJU-SER?color=green&label=Repo%20total%20size&style=plastic">
-<p align="center">
-<a href="https://github.com/aj001/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/pepesir?color=blue&style=flat-square"></a>
-<a href="https://github.com/aju001/AJU-SER/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/aju001/AJU-SER?color=blue&style=flat-square"></a>
-<a href="https://github.com/aju001/AJU-SER/network/members"><img title="Forks" src="https://img.shields.io/github/forks/aju001/AJU-SER?color=blue&style=flat-square"></a>
-<a href="https://github.com/aju001/AJU-SER/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/pepesir/AJU-SER?label=Watchers&color=blue&style=flat-square"></a>
-</p>
+
 
 <p align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aju001&show_icons=true&theme=dark&locale=en" alt="aju001" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TEDZO123&show_icons=true&theme=dark&locale=en" alt="aju001" /></p>
     
   <div align="center">
        
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aju001&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TEDZO123&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
   </div>
  
 
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://chat.whatsapp.com/HebsCx7CBxMJBLqyeHemcO)
+  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://chat.whatsapp.com/JqUKjz9djTS9mDmxA2ph2t)
 
 # Thanks To
-* [`Aju`](https://github.com/aju001)
+* [`Aslu`](https://github.com/TEDZO123/ASLU-SIR-1)
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Xeon`](https://github.com/DGXeon)
+
