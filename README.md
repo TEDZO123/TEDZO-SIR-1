@@ -5,7 +5,7 @@
 
 
 <div align="center">
-<img src="13-132607_prince-crown-clip-art-black-and-white-images.png" alt="aslu" width="200" />
+<img IMG-20220105-WA0040.jpg" alt="aslu" width="200" />
 
 ## 🚀ASlU SER🚀 
 
