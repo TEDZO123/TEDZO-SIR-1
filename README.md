@@ -24,7 +24,7 @@
   ### Simple Method
   
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@MYRANUMBI/A-J-U-QR?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@MYRANUMBI/TEDZO-10?v=1)
 
 <a href="https://github.com/TEDZO123"><img src="https://i.ibb.co/QKLkFh5/1.jpg" alt="2" width="600"></a>
 
