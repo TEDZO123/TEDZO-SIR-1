@@ -5,7 +5,7 @@
 
 
 <div align="center">
-<img IMG-20220105-WA0040.jpg" alt="aslu" width="200" />
+<img asluser.jpg" alt="aslu" width="200" />
 
 ## 🚀ASlU SER🚀 
 
