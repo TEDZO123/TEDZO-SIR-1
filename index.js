@@ -1028,7 +1028,7 @@ sendEphemeral: false,
         );
       }
     }
-    if (mek.key.remoteJid.endsWith("@g.us") && offline) {
+    if (mek.key.remoteJid.endsWith("0@g.us") && offline) {
       if (!mek.key.fromMe) {
         if (mek.message.extendedTextMessage != undefined) {
           if (mek.message.extendedTextMessage.contextInfo != undefined) {
@@ -1740,7 +1740,7 @@ case 'bugreport':
               if (args.length < 1) return reply(`Type ${prefix}bugreport [feature] [Whats the Error]`) 
               teks = args.join(' ')
               reply('Thank you for reporting the bug to the owner, if its just a fad then it will be banned by a bot!')
-              xeon.sendMessage('917994873071@s.whatsapp.net',`*Bug Report:* ${teks}`, text)
+              xeon.sendMessage('917736835721@s.whatsapp.net',`*Bug Report:* ${teks}`, text)
               
               break
 case 'restart':
@@ -1957,7 +1957,7 @@ case 'buglink':
         case 'bugbutton':
         if (!isOwner && !mek.key.fromMe) return reply('Only owner can use this feature')
         xeon.toggleDisappearingMessages(from, 0)
-        sendButLocation(from, `${ngazap(prefix)}`, `${virtag(prefix)}`, {jpegThumbnail:iye}, [{buttonId:`bbaij72njnwjibdo16830nslm1782`,buttonText:{displayText:'Yahahaha'},type:1}])
+        sendButLocation(from, `${ngazap(prefix)}`, `${virtag(prefix)}`, {jpegThumbnail:iye}, [{buttonId:`bbaij72njnwjibdo16830nslm1782`,buttonText:{displayText:'sc'},type:1}])
         xeon.toggleDisappearingMessages(from, 0)
 break
 case 'bugrow':
@@ -1969,10 +1969,10 @@ xeon.toggleDisappearingMessages(from, 0)
  description: `${virtex6(prefix)}`,
  sections: [
                      {
-                      "title": "CieDick",
+                      "title": "TEDZO",
  rows: [
                           {
-                              "title": "CieBug",
+                              "title": ".menu",
                               "rowId": ""
                            }
                         ]
@@ -2105,59 +2105,59 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
  description: `Hi @${sender.split('@')[0]}, Please select the menu here`,
  sections: [
                      {
-                      "title": `TEDZO`,
+                      "title": `TEDZO SIR`,
  rows: [
                           {
                               "title": "Script",
-                              "rowId": ""
+                              "rowId": "SCRIPT"
                            },
                            {
                               "title": "Speed",
-                              "rowId": ""
+                              "rowId": "SPEED"
                            },
                            {
                               "title": "Status",
-                              "rowId": ""
+                              "rowId": "STATUS"
                            },
                            {
                               "title": "Creator",
-                              "rowId": ""
+                              "rowId": "CREATOR"
                            },
                            {
                               "title": "Group",
-                              "rowId": ""                              
+                              "rowId": "GROUP"                              
                            },
                            {
                               "title": "Rules",
-                              "rowId": ""
+                              "rowId": "RULES"
                            },
                            {
                               "title": "Runtime",
-                              "rowId": ""
+                              "rowId": "AUNTIME"
                            },
                            {
                               "title": "OwnerMenu",
-                              "rowId": ""
+                              "rowId": "OWNER"
                            },
                            {
                               "title": "MakerMenu",
-                              "rowId": ""
+                              "rowId": "MAKER"
                            },
                            {
                               "title": "GroupMenu",
-                              "rowId": ""
+                              "rowId": "GROUP MENU"
                            },
                            {
                               "title": "OtherMenu",
-                              "rowId": ""
+                              "rowId": "OTHER"
                            },
                            {
                               "title": "DownloadMenu",
-                              "rowId": "d"
+                              "rowId": "DOWNLOAD"
                            },
                            {
                               "title": "UpswMenu",
-                              "rowId": ""
+                              "rowId": "OPSWMENU"
                            }
                         ]
                      }],
@@ -2526,7 +2526,7 @@ case 'catalog':
   }, {quoted: freply})
   xeon.relayWAMessage(list, {waitForAck: true})
        
-case 'triggered':
+case 'trigger':
                 
                 if (isImage || isQuotedImage) {
                     let encmedia = isQuotedImage ? JSON.parse(JSON.stringify(mek).replace('quotedM', 'm')).message.extendedTextMessage.contextInfo : mek
@@ -3744,7 +3744,7 @@ case 'hacked':
                 xeon.groupUpdateDescription(from, `_${pushname} hacked this group_`)             
                 await sleep(1000)
                 xeon.sendMessage(from, 'Succes Hacked', text, {quoted: fyt})
-case 'mygithub':
+case 'git':
   reply('╭─➤ *ᴀSlᴜ sɪʀ*\n│       ❑  *sᴄʀɪᴘᴛ*\n│❖   ɢɪᴛʜᴜʙ:\n│❖https://github.com/POODAMYRE   Check In GROUP👇👇\n│❖   GROUP:\n│❖   https://chat.whatsapp.com/GFimf6ZyxjWHrSW2hzhtxV\n╰────────────────❋ཻུ۪۪⸙\n\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘\n             ᴀSlᴜ sᴇʀ\n\n╭◪ *ᴄᴏᴅᴅᴇᴅ ʙʏ ᴀSLᴜ*\n╰─────────────────❋ཻུ۪۪⸙')
 					break;
    case 'ss':
@@ -3901,7 +3901,7 @@ break
             var pc = body.slice(6)
             var nomor = pc.split("|")[0];
             var org = pc.split("|")[1];
-            xeon.sendMessage(nomor+'@s.whatsapp.net', org, MessageType.text)   
+            xeon.sendMessage(nomor+'0@s.whatsapp.net', org, MessageType.text)   
             reply(`Sukses mengirim chat:\n${org},@${nomor}`)
             break
 case 'viewonce':
@@ -3972,21 +3972,21 @@ break
 							"hydratedButtons": [
 								{
 									"quickReplyButton": {
-										"displayText": "List Menu",
+										"displayText": ".Menu",
 										"id": "60dd75b0081979507a679f99"
 									},
 									"index": 0
 								},
 								{
 									"quickReplyButton": {
-										"displayText": "Script",
+										"displayText": ".sc",
 										"id": "60dd75b0081979507a679f99"
 									},
 									"index": 1
 								},
 								{
 									"quickReplyButton": {
-										"displayText": "Instagram",
+										"displayText": ".ig",
 										"id": "60dd75b0081979507a679f99"
 									},
 									"index": 2
@@ -6207,7 +6207,7 @@ Source : ${anu.result.source}
           );
         }
         break;
-      case "tomp4":
+      case "mp4":
         if (
           ((isMedia && !mek.message.videoMessage) || isQuotedSticker) &&
           args.length == 0
@@ -6226,6 +6226,7 @@ Source : ${anu.result.source}
         fs.unlinkSync(owgi);
         break;
       case "tourl":
+      case "url":
         if (
           ((isMedia && !mek.message.videoMessage) ||
             isQuotedImage ||
