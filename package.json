@@ -1,5 +1,5 @@
 {
-  "name": "ASLU-SER-1",
+  "name": "AJU-SER",
   "version": "1.0.0",
   "description": "TOD",
   "main": "main.js",
@@ -58,15 +58,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TEDZO123/TEDZO-SIR-1.git"
+    "url": "git+https://github.com/aju001/AJU-SER.git"
   },
   "keywords": [
     "Wasu"
   ],
-  "author": "ASLU",
+  "author": "AJU",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TEDZO123"
+    "url": "https://github.com/aju001"
   },
-  "homepage": "https://github.com/TEDZO123"
+  "homepage": "https://github.com/aju001"
 }
